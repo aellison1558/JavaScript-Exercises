@@ -30,3 +30,4 @@ cat1.meow = function() {
 
 cat1.meow();
 cat2.meow();
+module.exports = Cat
